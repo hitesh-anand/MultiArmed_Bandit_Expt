@@ -1,0 +1,20 @@
+﻿n,key_resp.keys_raw,,,,key_resp.rt_mean,key_resp.rt_raw,,,,key_resp.rt_std,order,,,
+4.0,'q', 'w', 'p', 'w',0.398624062538147,0.3980731964111328, 0.3332360088825226, 0.378882497549057, 0.48430460691452026,0.06326343358584231,0.0, 1.0, 2.0, 3.0
+
+extraInfo
+participant,548490
+session,001
+date,2023-03-30_18h25.51.651
+expName,bandit task
+psychopyVersion,2022.2.5
+frameRate,60.05576778566247
+﻿n,key_resp.keys_raw,,,,key_resp.rt_mean,key_resp.rt_raw,,,,key_resp.rt_std,order,,,
+4.0,, 'w', , 'q',0.7031569480895996,, 0.47535228729248047, , 0.9309616088867188,0.26304616446773627,0.0, 1.0, 2.0, 3.0
+
+extraInfo
+participant,036165
+session,001
+date,2023-03-30_22h00.01.260
+expName,bandit task
+psychopyVersion,2022.2.5
+frameRate,60.202774986721224
